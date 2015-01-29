@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeskOrder()
+comment1.params=fullName
+comment1.target=int\ setName(java.lang.String)
+comment10.params=
+comment10.target=void\ printInvoice()
+comment2.params=
+comment2.target=int\ getOrderNumber()
+comment3.params=leng
+comment3.target=void\ setLength(int)
+comment4.params=
+comment4.target=int\ getLength()
+comment5.params=wid
+comment5.target=void\ setWidth(int)
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=drawer
+comment7.target=void\ setDrawerCount(int)
+comment8.params=
+comment8.target=int\ getDrawerCount()
+comment9.params=wood
+comment9.target=int\ setWoodType(int)
+numComments=11
